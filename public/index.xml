@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://thecyberprophet.nl/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jun 2023 18:10:18 +0200</lastBuildDate><atom:link href="http://thecyberprophet.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, cyber world!</title>
+      <link>http://thecyberprophet.nl/posts/my-first-post/</link>
+      <pubDate>Mon, 05 Jun 2023 18:10:18 +0200</pubDate>
+      
+      <guid>http://thecyberprophet.nl/posts/my-first-post/</guid>
+      <description>Welcome, fellow seekers of knowledge, to The Cyber Prophet! I am delighted to embark on this exhilarating journey with you, delving into the intriguing realms of cybersecurity, philosophy, technology, games, art, books, and puzzles. Prepare to unlock the secrets that lie at the intersection of these captivating domains.
+I am the Cyber Wizard. The Cyber Prophet is my platform to share insights, reflections, and discoveries, as I traverse the fascinating landscapes of the digital realm and beyond.</description>
+    </item>
+    
+  </channel>
+</rss>

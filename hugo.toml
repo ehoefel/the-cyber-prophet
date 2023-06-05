@@ -1,0 +1,26 @@
+baseURL = 'http://thecyberprophet.nl/'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "posts"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+author = "The Cyber Prophet"
+#user = "edu"
+title = "thecyberprophet.nl"
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:edu@cyberwizard.com"

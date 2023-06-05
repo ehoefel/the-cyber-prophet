@@ -1,0 +1,18 @@
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "chringel-hugo-theme"]
+	path = chringel-hugo-theme
+	url = https://github.com/chringel21/chringel-hugo-theme.git
+[submodule "themes/potato-dark"]
+	path = themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/nightfall"]
+	path = themes/nightfall
+	url = https://github.com/LordMathis/hugo-theme-nightfall
