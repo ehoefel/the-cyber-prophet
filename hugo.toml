@@ -21,6 +21,7 @@ readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
 
 [[params.social]]
-key = 3
-name = "email"
+key = 1
+name = "edu@cyberwizard.com"
+icon = "fa-sharp fa-envelope fa-shake fa-lg"
 url = "mailto:edu@cyberwizard.com"
