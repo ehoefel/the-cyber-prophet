@@ -17,7 +17,7 @@ Now, with access to _the Internet_, I'm gonna spend quite some time checking
 out books, games, and movies too.
 I'll make sure to share here my thoughts on anything interesting I catch.
 
-Of course, I'll also share a byte of what's going on in the _future_. I wouldn't
+Of course, I'll also bring up some of what's going on in the _future_. I wouldn't
 be the Cyber Prophet otherwise. But don't get too worked up: it's a shitty
 timeline most of the time (It's so fucking hot in here!).
 
