@@ -22,6 +22,6 @@ published = true  # Show published data on post page
 
 [[params.social]]
 key = 1
-name = "edu@cyberwizard.com"
+name = "contact@thecyberprophet.nl"
 icon = "fa-sharp fa-envelope fa-shake fa-lg"
-url = "mailto:edu@cyberwizard.com"
+url = "mailto:contact@thecyberprophet.nl"
