@@ -15,4 +15,4 @@
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
 [submodule "themes/nightfall"]
 	path = themes/nightfall
-	url = https://github.com/LordMathis/hugo-theme-nightfall
+	url = https://github.com/ehoefel/hugo-theme-nightfall
