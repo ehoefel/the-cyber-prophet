@@ -11,8 +11,7 @@ sure. We have _memo sploinks_ in the future, but those are a bit different...
 
 Well, it doesn't matter. What matters is that I'm done of the common world
 (stupid 7-factor authentication!)
-and there's nothing more to do there,
-    so I decided to connect with the _present_ to see what's up here.
+, so I decided to connect with the _present_ to see what's up here.
 
 Now, with access to _the Internet_, I'm gonna spend quite some time checking
 out books, games, and movies too.
