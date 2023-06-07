@@ -21,7 +21,7 @@ So yeah, being stuck in the outside world by myself, I decided to set up a
 faster-than-light network and try to connect with the _present_. The hardest
 part was to buy the domain for the website. You see, most of the payment methods from the
 present were long abandoned, including cryptocurrencies. So I had to buy an old
-quantum-computer at a thrift shop to steal a random bitcoin wallet.
+quantum computer at a thrift shop to steal a random Bitcoin wallet.
 
 I hope it wasn't yours.
 

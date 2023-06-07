@@ -6,7 +6,7 @@ showMetadata: false
 Hi, I'm the Cyber Prophet! Welcome to my website. I'm using it as a
 communication channel with the _present_ time. Long story short, I'm from the
 _future_. But if you are actually interested you can check out my posts.
-Yeah, I write posts here. I guess this makes the website a sort of a blog? I'm not
+Yeah, I write posts here. I guess this makes the website a sort of blog? I'm not
 sure. We have _memo sploinks_ in the future, but those are a bit different...
 
 Well, it doesn't matter. What matters is that I'm done of the common world
