@@ -1,6 +1,7 @@
 baseURL = 'http://thecyberprophet.nl/'
 languageCode = 'en-us'
 theme = "nightfall"
+staticDir = ['static']
 
 [menu]
   [[menu.header]]
