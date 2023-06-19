@@ -1,7 +1,7 @@
 ---
 title: "S"
 date: 2023-06-17T12:09:16+02:00
-draft: true
+draft: false
 ---
 
 Hello cyber folks! I was planning on posting here last week, but my pet
