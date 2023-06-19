@@ -30,7 +30,3 @@ Let me know if you have any questions, and
 I'll try to answer them in the next post.
 
 Have a good time!
-
-Warm regards,
-
-CyP

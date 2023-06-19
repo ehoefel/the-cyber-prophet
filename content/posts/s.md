@@ -183,7 +183,3 @@ and Eric used to communicate.
 
 That's it for today.
 See you next time!
-
-Warm regards,
-
-CyP
