@@ -57,7 +57,10 @@ develop ourselves beyond a survival-based lifestyle.
 But I think there's another aspect of fire that is not much discussed:
 it enabled _storytelling_.
 As Anthropologist Polly Wiessner wrote:
-> _Night talk plays an important role in [...] transmitting the “big picture” of cultural institutions that generate regularity of behavior, cooperation, and trust at the regional level._
+
+> Night talk plays an important role in [...] transmitting the “big picture” of
+> cultural institutions that generate regularity of behavior, cooperation, and
+> trust at the regional level.
 
 Basically, the big accomplishments of warriors and adventurers, when shared
 around the campfire, would bring inspiration and lessons to the audience.
