@@ -71,9 +71,10 @@ Check out their full study [here](http://www.pnas.org/cgi/doi/10.1073/pnas.14042
 
 From there on, the powers of storytelling only grew, even influencing the
 concept of _writing_ itself!
-You see, when Homer came up with Iliad and Odyssey, the Greeks didn't have a
-writing system as we currently know. Instead, they'd only use it to keep track
-of transactions and costs, basically for taxes purposes.
+You see, when Homer came up with _Iliad_ and _Odyssey_, the Greeks didn't have a
+writing system as we currently know.
+Instead, they'd only use it to keep track of transactions and costs, basically
+for taxes purposes.
 But Homer's poems became so popular that people wanted to preserve them with
 accuracy, which led to the concept of _a set of letters that represent sounds_,
 the **alphabet**.
@@ -114,13 +115,13 @@ Yeah, no one believed in _True Story_, but some still appreciated the idea
 behind it, which helped people accept that a story can be meaningful even if
 it's a lie. And there you have it, the _Fantasy genre_ was born.
 
-For me, the best part of _True Story_ is that the book ends abruptly;
-the last paragraph promises that future adventures would be described in upcoming sequels,
-which were never written.
-
 | ![](/images/pinocchio.png) |
 |:--:|
 |  |
+
+For me, the best part of _True Story_ is that the book ends abruptly;
+the last paragraph promises that future adventures would be described in upcoming sequels,
+which were never written.
 
 I personally find it a genius move.
 
