@@ -4,12 +4,12 @@ date: 2023-06-17T12:09:16+02:00
 draft: false
 ---
 
-Hello cyber folks! I was planning on posting here last week, but my pet
-pet-drone Dilik got sick and I got quite busy figuring out how to use the IMT
-(Inhuman Medical Toolbox). But everything is sorted out now.
+Hello cyber folks! I was planning on posting here last week, but my
+pet-drone Dilik got sick, and I got quite busy figuring out how to use the RMT
+(Robot Medical Toolbox). But everything is sorted out now.
 
 Before delving into the topic of today's post, I'd like to give space to a
-question I received from one of my readers. Here it goes.
+question I received from one of my readers:
 
 > Hello, Cyber Prophet!\
 > I have a very important question...
