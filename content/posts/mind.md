@@ -17,8 +17,11 @@ I was very disturbed when I was a kid. I used to think that kids, parents and te
 I used to be discomforted when people laughed around me, because I thought they were laughing _of me_. To be fair, sometimes they were, specially at school. I admit I wasn't very socially skilled. But the thought accompanied me even when I was alone, in public, sitting at a bench and eating junk food.
 
 _"Do I eat funny?"_
+
 _"Do I sit funny?"_
+
 _"Do I look funny?"_
+
 _"What is wrong with me?"_
 
 I really believed I was abnormal, and for that reason I avoided most interactions with people. To the point that I would struggle at small talk or answering a simple question. I just couldn't accept the fact that someone wanted to _talk_ with me.
