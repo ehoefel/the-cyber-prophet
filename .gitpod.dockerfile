@@ -14,8 +14,8 @@ AAAECVx1/DavD3S2juaY3sWYW/GoOJl+8kKi+Etuo0KDc4CwpuiCM+qU/KhIR4qSl/5HHc
 Gy1cxjLixKt1++im5CHQAAAAFWRldi5laG9lZmVsQGdtYWlsLmNvbQ==
 -----END OPENSSH PRIVATE KEY-----
 EOT > /home/gitpod/.ssh/id_ed25519
-#
-#RUN eval "$(ssh-agent -s)"
+
+RUN eval "$(ssh-agent -s)"
 #
 #RUN ssh-add /home/gitpod/.ssh/id_ed25519
 
