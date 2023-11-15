@@ -20,4 +20,3 @@ EOT > /home/gitpod/.ssh/id_ed25519
 RUN eval "$(ssh-agent -s)"
 
 RUN ssh-add /home/gitpod/.ssh/id_ed25519
-
