@@ -1,3 +1,14 @@
+image: gitpod/workspace-full
+
+# Ports to expose on workspace startup
+ports:
+    - port: 1313
+      onOpen: open-preview
+      name: Website
+      description: Website Preview
+      visibility: private
+      protocol: https
+
 tasks:
   - before: >
       sudo apt-get install -y hugo &&
