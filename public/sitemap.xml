@@ -3,10 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thecyberprophet.nl/</loc>
-    <lastmod>2023-06-17T12:09:16+02:00</lastmod>
+    <lastmod>2023-11-13T13:34:18+01:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://thecyberprophet.nl/posts/mind/</loc>
+    <lastmod>2023-11-13T13:34:18+01:00</lastmod>
   </url><url>
     <loc>http://thecyberprophet.nl/posts/</loc>
-    <lastmod>2023-06-17T12:09:16+02:00</lastmod>
+    <lastmod>2023-11-13T13:34:18+01:00</lastmod>
+  </url><url>
+    <loc>http://thecyberprophet.nl/posts/vectorpersonography/</loc>
+    <lastmod>2023-09-04T17:43:43+02:00</lastmod>
   </url><url>
     <loc>http://thecyberprophet.nl/posts/s/</loc>
     <lastmod>2023-06-17T12:09:16+02:00</lastmod>
