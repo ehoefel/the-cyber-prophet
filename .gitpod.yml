@@ -1,4 +1,4 @@
-etasks:
+tasks:
   - before: >
       sudo apt-get install -y hugo &&
       [[ ! -z $GITCONFIG  ]] &&
@@ -11,5 +11,5 @@ etasks:
       [[ ! -z $SSH_PRIVATE_KEY  ]] &&
       echo $SSH_PRIVATE_KEY | base64 -d > ~/.ssh/id_rsa &&
       chmod 600 ~/.ssh/id_rsa &&
-      ls -a /workspace/ehoefel.github.io > /home/gitpod/test 2>&1
+      find /workspace/ehoefel.github.io > /home/gitpod/test 2>&1
     
