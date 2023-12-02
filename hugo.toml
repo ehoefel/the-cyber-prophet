@@ -1,4 +1,4 @@
-baseURL = 'https://ehoefel.github.io/thecyberprophet/'
+baseURL = 'https://thecyberprophet.nl/'
 languageCode = 'en-us'
 theme = "nightfall"
 staticDir = ['static']
